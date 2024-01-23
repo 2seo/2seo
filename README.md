@@ -11,7 +11,7 @@
   * Flutter-Moblie Website Develope
 <p>to be Frontend-Engineer!✨</p>
 
-#### 📁 My Pursonal Portfolio is currently in progress ... COMING SOON ⚠
+#### 📁 My Personal Portfolio is currently in progress ... COMING SOON ⚠
 <br />
 <br />
 <br />
