@@ -6,8 +6,8 @@
 
 #### 🌱 I'm currently learning
   * Html, CSS, JavaScript
-  * Interactive & Responsive Website
   * JavaScript Frameworks
+  * Interactive & Responsive Website
   * Flutter-Moblie Website Develope
 <p>to be Frontend-Engineer!✨</p>
 
