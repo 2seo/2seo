@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="g.gif" alt="" />
 
-<!--
-**2seo/2seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### 👋 Hi there! 👋
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I'm currently learning
+  * Html, CSS, JavaScript
+  * Interactive & Responsive Website
+  * JavaScript Frameworks
+  * Flutter-Moblie Website Develope
+<p>to be Frontend-Engineer!✨</p>
+
+#### 📁 My Pursonal Portfolio is currently in progress ... COMING SOON ⚠
+
+<br />
+<br />
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2seo&show_icons=true&theme=gruvbox_light)
