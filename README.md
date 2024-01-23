@@ -9,6 +9,7 @@
   * JavaScript Frameworks
   * Interactive & Responsive Website
   * Flutter-Moblie Website Develope
+  * 3D Modeling
 <p>to be Frontend-Engineer!✨</p>
 
 #### 📁 My Personal Portfolio is currently in progress ... COMING SOON ⚠
